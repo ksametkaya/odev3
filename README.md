@@ -1,2 +1,1 @@
-# -dev3
-yemek tarifi
+[Patika Profilim](https://app.patika.dev/ksametkaya)
