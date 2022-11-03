@@ -1,1 +1,1 @@
-[Patika Profilim](https://app.patika.dev/ksametkaya)
+[Patika Profilim!](https://app.patika.dev/ksametkaya)
